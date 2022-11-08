@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "764aa886a975f419",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80f916a8ff74593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4080c5abab58b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82179c9bb4ce47d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e48e4ddd05917b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71262b55b0f9f46c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b870b2d755417086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "useeffec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240
+  },
+  "right": {
+    "id": "82a9e7d6600420b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "870660334e2afea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e051b6a3462a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "71262b55b0f9f46c",
+  "lastOpenFiles": [
+    "React/Design Patterns.md",
+    "Tips & Tools/Day-to-day work related.md",
+    "React/Hooks.md",
+    "React/Concurrency.md",
+    "JS/Everyday methods & utils.md",
+    "Tips & Tools/Technical questions.md",
+    "Tips & Tools/Git.md",
+    "Tips & Tools/Progressive Overload.md",
+    "Tips & Tools/Interview prep.md",
+    "Tips & Tools/General Questions.md"
+  ]
+}

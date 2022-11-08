@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:JS",
+      "color": {
+        "a": 1,
+        "rgb": 16244510
+      }
+    },
+    {
+      "query": "path:TypeScript",
+      "color": {
+        "a": 1,
+        "rgb": 3242182
+      }
+    },
+    {
+      "query": "path:CSS",
+      "color": {
+        "a": 1,
+        "rgb": 2385393
+      }
+    },
+    {
+      "query": "path:React",
+      "color": {
+        "a": 1,
+        "rgb": 6413051
+      }
+    },
+    {
+      "query": "path:Redux",
+      "color": {
+        "a": 1,
+        "rgb": 6769340
+      }
+    },
+    {
+      "query": "path: HTML",
+      "color": {
+        "a": 1,
+        "rgb": 14896166
+      }
+    },
+    {
+      "query": "path:\"Tips & Tools\"",
+      "color": {
+        "a": 1,
+        "rgb": 5412964
+      }
+    },
+    {
+      "query": "path:Frameworks",
+      "color": {
+        "a": 1,
+        "rgb": 4521728
+      }
+    },
+    {
+      "query": "path:Network",
+      "color": {
+        "a": 1,
+        "rgb": 13789802
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.10676959619952,
+  "lineSizeMultiplier": 0.501543942992874,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.813771308549873,
+  "close": true
+}

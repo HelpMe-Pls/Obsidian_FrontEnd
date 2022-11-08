@@ -1,0 +1,5 @@
+[[this]]
+[[new]]
+[[Prototype]]
+[[JS/class]]
+[[OLOO]]

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "764aa886a975f419",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b4080c5abab58b5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82179c9bb4ce47d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e48e4ddd05917b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71262b55b0f9f46c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b870b2d755417086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "destruc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240
+  },
+  "right": {
+    "id": "82a9e7d6600420b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "870660334e2afea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e051b6a3462a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b4080c5abab58b5",
+  "lastOpenFiles": [
+    "Tips & Tools/General Questions.md",
+    "Tips & Tools/git-commands.png",
+    "Tips & Tools/git-model.png",
+    "JS/Everyday methods & utils.md",
+    "Frameworks/Umi.md",
+    "Redux/Fundamentals.md",
+    "Frameworks/umi-state-flow.png",
+    "Pasted image 20221003155827.png.md",
+    "Frameworks/MUI.md",
+    "Redux/react-redux.md"
+  ]
+}
